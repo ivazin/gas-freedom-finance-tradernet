@@ -1,4 +1,4 @@
-# gas-freedom-finance-tradernet
+# GAS Freedom Finance Tradernet Portfolio
 Google Apps Script для получения портфеля активов со счета Freedom Finance (Tradernet) прямо в Google Таблицу.
 
 ## Установка и использование
