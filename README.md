@@ -28,3 +28,5 @@ Google Apps Script для получения портфеля активов с�
 ## Пример
 ![Get portfolio in action](https://github.com/ivazin/gas-freedom-finance-tradernet/raw/main/portfolio.png)
 
+## Links
+Подобный проект по работе с Tinkoff OpenAPI: https://github.com/ErhoSen/gas-tinkoff-trades/
